@@ -6,6 +6,5 @@
   "homeassistant": "2023.1.0",
   "iot_class": "Cloud Polling",
   "render_readme": true,
-  "zip_release": true,
-  "filename": "siliconflow_tts.zip"
+  "content_in_root": true
 }
