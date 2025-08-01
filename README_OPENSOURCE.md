@@ -2,8 +2,8 @@
 
 🎙️ 一个功能强大的 Home Assistant 文本转语音集成，基于 [SiliconFlow](https://siliconflow.cn) 的 CosyVoice2-0.5B 模型。
 
-[![GitHub Release](https://img.shields.io/github/release/your-username/siliconflow-tts-ha)](https://github.com/your-username/siliconflow-tts-ha/releases)
-[![License](https://img.shields.io/github/license/your-username/siliconflow-tts-ha)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/homeassistant-addons/siliconflow-tts)](https://github.com/homeassistant-addons/siliconflow-tts/releases)
+[![License](https://img.shields.io/github/license/homeassistant-addons/siliconflow-tts)](LICENSE)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-compatible-brightgreen)](https://www.home-assistant.io/)
 [![中文文档](https://img.shields.io/badge/文档-中文-blue)](README_OPENSOURCE.md)
 
@@ -28,7 +28,7 @@
 1. 确保已安装 [HACS](https://hacs.xyz/)
 2. 进入 HACS → 集成
 3. 点击右上角 ⋮ → 自定义存储库
-4. 添加此仓库 URL：`https://github.com/your-username/siliconflow-tts-ha`
+4. 添加此仓库 URL：`https://github.com/homeassistant-addons/siliconflow-tts`
 5. 类别选择"集成"
 6. 搜索 "SiliconFlow TTS" 并安装
 7. 重启 Home Assistant
@@ -272,7 +272,7 @@ script:
 
 遇到问题？请通过以下方式反馈：
 
-1. [GitHub Issues](https://github.com/your-username/siliconflow-tts-ha/issues)
+1. [GitHub Issues](https://github.com/homeassistant-addons/siliconflow-tts/issues)
 2. [Home Assistant 社区论坛](https://bbs.hassbian.com/)
 
 ## 🤝 贡献代码
@@ -303,4 +303,4 @@ script:
 
 ⭐ 如果这个项目对您有帮助，请给我们一个 Star！
 
-🔗 **项目链接**: https://github.com/your-username/siliconflow-tts-ha
+🔗 **项目链接**: https://github.com/homeassistant-addons/siliconflow-tts
