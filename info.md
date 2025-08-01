@@ -21,4 +21,4 @@
 
 支持上传个人音色文件，实现个性化语音输出。
 
-详细使用说明请查看 [GitHub 仓库](https://github.com/homeassistant-addons/siliconflow-tts)。
+详细使用说明请查看 [GitHub 仓库](https://github.com/Ethan930717/siliconflow-tts)。
