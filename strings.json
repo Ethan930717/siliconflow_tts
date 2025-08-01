@@ -1,0 +1,36 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "设置SiliconFlow TTS",
+        "description": "请输入您的SiliconFlow API密钥",
+        "data": {
+          "api_key": "API密钥"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "无法连接到SiliconFlow服务，请检查网络连接",
+      "invalid_auth": "API密钥无效，请检查密钥是否正确",
+      "unknown": "发生未知错误，请重试"
+    },
+    "abort": {
+      "already_configured": "该API密钥已经配置过了"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "配置SiliconFlow TTS选项",
+        "description": "调整语音合成参数，更改后将立即生效，无需重启",
+        "data": {
+          "voice": "音色",
+          "speed": "语速 (0.25-4.0)",
+          "response_format": "音频格式",
+          "sample_rate": "采样率 (Hz)",
+          "gain": "音量增益 (-10到10 dB)"
+        }
+      }
+    }
+  }
+}
